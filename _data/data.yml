@@ -2,25 +2,25 @@ basic:
   name: Frank Wang
   title: Backend Developer
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
+  email: frankwdy11@gmail.com
+  phone: +86-187-519-17329
+  website: blog.frank.nio.quest
   wechat:
   whatsapp:
   telegram:
-  github: github
+  github: https://github.com/Captain1
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/frank-wang-a69194a1/
   medium:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
@@ -39,23 +39,24 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    - role: Golang Backend Developer
+      time: 2020.12 - Now
+      company: Shanghai JuYin Technoloy,Ltd.("UnionDrug")
+      tag: Onsite, full-time
+      location: NanJing
       details: |
         Experience in this company:
-        + First
-        + Second
-
+        + Design,implement company's mid-end finance modules
+        + Develop company's middlewares、tool-chain using Golang
+        + Host code review every week to improve code quality
+        + Maintain tech documents and wikis regularly
         ...
 
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Backend and SRE Developer
+      time: 2019.06 - 2020.11
+      company: Nanjing Circle Social Technology,Ltd.
+      tag: Onsite, full-time
+      location: NanJing
       details: |
         Experience in this company:
         + First
