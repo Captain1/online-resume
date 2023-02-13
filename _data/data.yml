@@ -8,7 +8,7 @@ basic:
 contact:
   location:
   email: frankwdy11@gmail.com
-  phone: +86-187-519-17329
+  phone: 
   website: blog.frank.nio.quest
   wechat:
   whatsapp:
@@ -18,7 +18,7 @@ contact:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin: https://www.linkedin.com/in/frank-wang-a69194a1/
+  linkedin: 
   medium:
   twitter: 
   stackoverflow:
@@ -46,10 +46,13 @@ experiences:
       location: NanJing
       details: |
         Experience in this company:
-        + Design,implement company's mid-end finance modules
-        + Develop company's middlewares、tool-chain using Golang
-        + Host code review every week to improve code quality
-        + Maintain tech documents and wikis regularly
+        + Design and develop company's middle-end finance modules、middlewares and tool-chains using Golang
+        + Familiar with Iris web framework、XORM、MySQL、Redis、RocketMQ、ELK Stack
+        + Implement Golang request tracing among services,easy to locate problems in logs
+        + Implement pprof report using Promethus and visulize in Grafana
+        + Join code review every week to improve code quality
+        + Share tech sessions like "InnoDB deadlock analysis and prevention"
+        + Maintain project documents and Confluence wikis regularly
         ...
 
     - role: Backend and SRE Developer
@@ -59,8 +62,10 @@ experiences:
       location: NanJing
       details: |
         Experience in this company:
-        + First
-        + Second
+        + Design and develop company's social network core modules
+        + Integrate third-party SDKs like: Messaging、Payment、Broadcast、Face Recognition,etc.
+        + Implement a simple CI/CD pipeline(Deploy services to AWS cloud)
+        + Linux VPS basic devops: CronJobs、Daemon services、Slow SQL monitoring,etc.
 
         ...
 
@@ -103,9 +108,9 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
+    - university: Waterford Institude of Technology
+      time: 2014 - 2016
+      major: Software System Design
       degree: Master
       details: |
         Experience in this university:
@@ -114,8 +119,8 @@ education:
 
         ...
 
-    - university: Example University
-      time: 2011 - 2015
+    - university: NanJing University of Information Science and Technology
+      time: 2011 - 2014
       major: Computer Science
       degree: Bachelor
       details: |
