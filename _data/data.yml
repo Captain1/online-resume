@@ -20,7 +20,7 @@ contact:
   researchgate:
   linkedin: https://www.linkedin.com/in/frank-wang-a69194a1
   medium:
-  twitter: 
+  twitter:
   stackoverflow:
   quora:
   goodreads:
@@ -31,13 +31,49 @@ profile:
   details: |
     + 5+ years of IT experience in all phases of SDLC, like Requirement Analysis,System Design,Development,Testing etc.
     + Strong working knowledge in developing RESTful micro-services using Golang.
+    + Solid understanding of Go fundamentals(Slice,Map,Mutex,GMP,Goroutine,Channel).
     + Good knowledge of relational databases involved in development using serveral DBMS like MariaDB,MySQL,PostgreSQL,MongoDB,etc.
     + Extensive knowledge in using Git and other version control tools.
     + Familiar with in-memory or third-party cache system like Redis,Memcached,BigCache,etc.
-    + Familiar with message queue system like RocketMQ,RabitMQ,etc.
+    + Familiar with message queue system like Kafka,RocketMQ,RabbitMQ,etc.
     + Familiar with Docker and Kubernetes.
     + Hands on experience in writing Docker build files and deploying applications on cloud like AliCloud,AWS,Azure.
     + Good communication and interpersonal skills and self-motivated,hardworking individual and has ability to work in team.
+
+skills:
+  display: true
+  title: Skills
+  details: |
+    + Git work flow
+    + Sprint,Project Management
+    + System and DB Schema design
+    + Develop Golang micro-services
+    + Golang fundamentals and best practices
+    + Cache/MQ/Third-party libraries integration
+    + DBMS/Query Optimization
+    + Linux commands and devops
+    + Docker and Kubernetes
+    + Communication/Open-mindedness/Conflict resolution
+
+  levels:
+    - name: Git/Linux commands
+      level: 90
+    - name: Sprint,Project Management
+      level: 90
+    - name: System and DB Schema design
+      level: 85
+    - name: Develop Golang micro-services
+      level: 85
+    - name: Golang fundamentals and best practices
+      level: 85
+    - name: Cache/MQ/Third-party libraries integration
+      level: 80
+    - name: DBMS/Query Optimization
+      level: 80
+    - name: Docker and Kubernetes
+      level: 70
+    - name: Communication/Open-mindedness/Conflict resolution
+      level: 90
 
 experiences:
   display: true
@@ -89,24 +125,6 @@ projects:
       link:
       details: |
         Project Bar's detail, you can write markdown format text.
-
-skills:
-  display: true
-  title: Skills
-  details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
-
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
 
 education:
   display: true
