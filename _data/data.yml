@@ -108,18 +108,18 @@ experiences:
         + Linux VPS basic devops: CronJobs、Daemon services、Slow SQL monitoring,etc.
 
     - role: Software Developer
-        time: 2016.06 - 2019.6
-        company: Jiangsu front page Technology,Ltd.
-        tag: Onsite, full-time
-        location: NanJing,China
-        details: |
-          Experience in this company:
-          + Develop website "houxue.com" backend using LAMP stack.
-          + Integrate API for "Baidu Ranking Assitant" using socket/protobuffers.
-          + Develop "houxue" Android App using custom widgets,familiar with Volley,Retrofit,EventBus.
+      time: 2016.9 - 2019.6
+      company: Jiangsu Front Page Technology,Ltd.
+      tag: Onsite, full-time
+      location: NanJing,China
+      details: |
+        Experience in this company:
+        + Develop website "houxue.com" backend using LAMP stack.
+        + Integrate API for "Baidu Ranking Assitant" using socket/protobuffers.
+        + Develop "houxue" Android App using custom widgets,familiar with Volley,Retrofit,EventBus.
 
     - role: Software Developer
-        time: 2016.01 - 2016.9
+        time: 2016.01 - 2016.7
         company: Smith Immigration & Education Consulting
         tag: Onsite, full-time
         location: Dublin,Ireland
@@ -147,7 +147,7 @@ education:
   display: true
   title: Education
   items:
-    - university: Waterford Institude of Technology
+    - university: Waterford Institute of Technology
       time: 2014 - 2016
       major: Software System Design
       degree: Bsc 2.1 Honors Degree
@@ -161,7 +161,7 @@ education:
       major: Computer Science
       degree: Bachelor
       details: |
-        + Develop an Android music player like Netease music player.
+        + Develop an Android music player like NetEase music player.
         + Vice-president of the IECA,host events,provide help to exchange students and foreign tutors.
 
 certificates:
