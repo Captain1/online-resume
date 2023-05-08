@@ -1,6 +1,6 @@
 basic:
   name: Frank Wang
-  title: Backend Developer
+  title: Software Developer
   avatar:
     display: false
     path: profile.png
@@ -8,7 +8,7 @@ basic:
 contact:
   location:
   email: frankwdy11@gmail.com
-  phone: (+86)18751917329
+  phone: (+86) 18751917329
   website:
   wechat:
   whatsapp:
@@ -30,13 +30,21 @@ profile:
   title: Profile
   details:
     + 5+ years of IT experience in all phases of SDLC, like Requirement Analysis,System Design,Development,Testing etc.
+
     + Strong working knowledge in developing RESTful micro-services using Golang.
+
     + Good knowledge of relational databases involved in developemnt using serveral DBMS like MariaDB,MySQL,PostgreSQL,MongoDB,etc.
+
     + Extensive knowledge in using Git and other version control tools.
+
     + Familiar with in-memory or third-party cache system like Redis,Memcached,BigCache,etc.
+
     + Familiar with message queue system like RocketMQ,RabiitMq,etc.
+
     + Familiar with Docker and Kubernetes.
+
     + Hands on experience in writing Docker build files and deploying applications on cloud like AliCloud,AWS,Azure.
+
     + Good communication and interpersonal skills and self-motivated,hardworking individual and has ability to work in team.
 
 experiences:
