@@ -28,23 +28,15 @@ contact:
 profile:
   display: true
   title: Profile
-  details:
+  details: |
     + 5+ years of IT experience in all phases of SDLC, like Requirement Analysis,System Design,Development,Testing etc.
-
     + Strong working knowledge in developing RESTful micro-services using Golang.
-
-    + Good knowledge of relational databases involved in developemnt using serveral DBMS like MariaDB,MySQL,PostgreSQL,MongoDB,etc.
-
+    + Good knowledge of relational databases involved in development using serveral DBMS like MariaDB,MySQL,PostgreSQL,MongoDB,etc.
     + Extensive knowledge in using Git and other version control tools.
-
     + Familiar with in-memory or third-party cache system like Redis,Memcached,BigCache,etc.
-
-    + Familiar with message queue system like RocketMQ,RabiitMq,etc.
-
+    + Familiar with message queue system like RocketMQ,RabitMQ,etc.
     + Familiar with Docker and Kubernetes.
-
     + Hands on experience in writing Docker build files and deploying applications on cloud like AliCloud,AWS,Azure.
-
     + Good communication and interpersonal skills and self-motivated,hardworking individual and has ability to work in team.
 
 experiences:
