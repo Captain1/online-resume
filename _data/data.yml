@@ -119,14 +119,14 @@ experiences:
         + Develop "houxue" Android App using custom widgets,familiar with Volley,Retrofit,EventBus.
 
     - role: Software Developer
-        time: 2016.01 - 2016.7
-        company: Smith Immigration & Education Consulting
-        tag: Onsite, full-time
-        location: Dublin,Ireland
-        details: |
-          Experience in this company:
-          + Develop Android app "Ireland8" and publish to Google App Store.
-          + Develop backend API for "Ireland8"(Wechat SDK integration,news feed mixer,etc.)
+      time: 2016.01 - 2016.7
+      company: Smith Immigration & Education Consulting
+      tag: Onsite, full-time
+      location: Dublin,Ireland
+      details: |
+        Experience in this company:
+        + Develop Android app "Ireland8" and publish to Google App Store.
+        + Develop backend API for "Ireland8"(Wechat SDK integration,news feed mixer,etc.)
 
 projects:
   display: true
