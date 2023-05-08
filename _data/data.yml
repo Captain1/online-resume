@@ -33,20 +33,21 @@ profile:
     + Strong working knowledge in developing RESTful micro-services using Golang.
     + Solid understanding of Go fundamentals(Slice,Map,Mutex,GMP,Goroutine,Channel).
     + Good knowledge of relational databases involved in development using serveral DBMS like MariaDB,MySQL,PostgreSQL,MongoDB,etc.
-    + Extensive knowledge in using Git and other version control tools.
+    + Extensive knowledge in using Git.
     + Familiar with in-memory or third-party cache system like Redis,Memcached,BigCache,etc.
     + Familiar with message queue system like Kafka,RocketMQ,RabbitMQ,etc.
+    + Familiar with Linux distros like Debian,Ubuntu,CentOS,etc.
     + Familiar with Docker and Kubernetes.
     + Hands on experience in writing Docker build files and deploying applications on cloud like AliCloud,AWS,Azure.
     + Good communication and interpersonal skills and self-motivated,hardworking individual and has ability to work in team.
 
 skills:
-  display: true
+  display: false
   title: Skills
   details: |
-    + Git work flow
+    + Git/Linux commands
     + Sprint,Project Management
-    + System and DB Schema design
+    + System/DB Schema/API design
     + Develop Golang micro-services
     + Golang fundamentals and best practices
     + Cache/MQ/Third-party libraries integration
@@ -133,7 +134,7 @@ education:
     - university: Waterford Institude of Technology
       time: 2014 - 2016
       major: Software System Design
-      degree: Master
+      degree: Bachelor
       details: |
         Experience in this university:
         + First
@@ -154,22 +155,23 @@ education:
 
 certificates:
   display: true
-  title: Certificates
+  title: Courses
   items:
-    - name: Course Foo
+    - name: Deep Learning CS229
       authority: Coursera
+      time: 2021
+      link:
+      details: |
+        Finish deep learning course CS229 by Andrew Ng.
+    - name: MIT 6.824
+      authority: MIT
       time: 2020
       link:
       details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
+        Learned MIT 6.824 Distributed System.
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -185,7 +187,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -199,18 +201,24 @@ languages:
       level: Native
     - idiom: English
       level: Professional
+    - idiom: Japanese
+      level: Starter
 
 interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: Piano
+      link:
+    - item: Table Tennis
+      link:
+    - item: Roller Skating
       link:
     - item: Cooking
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
@@ -220,7 +228,7 @@ evaluation:
     ...
 
 footer:
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden.
