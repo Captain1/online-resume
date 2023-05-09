@@ -1,46 +1,55 @@
+---
 basic:
   name: Frank Wang
   title: Software Developer
   avatar:
     display: false
     path: profile.png
-
 contact:
-  location:
+  location: null
   email: frankwdy11@gmail.com
   phone: (+86) 18751917329
-  website:
-  wechat:
-  whatsapp:
-  telegram:
+  website: null
+  wechat: null
+  whatsapp: null
+  telegram: null
   github: https://github.com/Captain1
-  gitlab:
-  bitbucket:
-  googlescholar:
-  researchgate:
+  gitlab: null
+  bitbucket: null
+  googlescholar: null
+  researchgate: null
   linkedin: https://www.linkedin.com/in/frank-wang-a69194a1
-  medium:
-  twitter:
-  stackoverflow:
-  quora:
-  goodreads:
-
+  medium: null
+  twitter: null
+  stackoverflow: null
+  quora: null
+  goodreads: null
 profile:
   display: true
   title: Profile
-  details: |
-    + 5+ years of IT experience in all phases of SDLC, like Requirement Analysis,System Design,Development,Testing etc.
-    + Strong working knowledge in developing RESTful micro-services using Golang.
-    + Solid understanding of Go fundamentals(Slice,Map,Mutex,GMP,Goroutine,Channel).
-    + Good knowledge of relational databases involved in development using serveral DBMS like MariaDB,MySQL,PostgreSQL,MongoDB,etc.
-    + Extensive knowledge in using Git.
-    + Familiar with in-memory or third-party cache system like Redis,Memcached,BigCache,etc.
-    + Familiar with message queue system like Kafka,RocketMQ,RabbitMQ,etc.
-    + Familiar with Linux commands and distros like Debian,Ubuntu,CentOS,etc.
-    + Familiar with Docker and Kubernetes.
-    + Hands on experience in writing Docker build files and deploying applications on cloud like AliCloud,AWS,Azure.
-    + Good communication and interpersonal skills and self-motivated,hardworking individual and has ability to work in team.
+  details: >
+    + 5+ years of IT experience in all phases of SDLC, like Requirement
+    Analysis,System Design,Development,Testing etc.
 
+    + Strong working knowledge in developing REST-ful micro-services using Golang.
+
+    + Solid understanding of Go fundamentals(Slice,Map,Mutex,GMP,Goroutine,Channel).
+
+    + Good knowledge of relational databases involved in development using several DBMS like MariaDB,MySQL,PostgreSQL,MongoDB,etc.
+
+    + Extensive knowledge in using Git.
+
+    + Familiar with in-memory or third-party cache system like Redis,Memcached,BigCache,etc.
+
+    + Familiar with message queue system like Kafka,RocketMQ,RabbitMQ,etc.
+
+    + Familiar with Linux commands and distros like Debian,Ubuntu,CentOS,etc.
+
+    + Familiar with Docker and Kubernetes.
+
+    + Hands on experience in writing Docker build files and deploying applications on cloud like AliCloud,AWS,Azure.
+
+    + Good communication and interpersonal skills and self-motivated,hardworking individual and has ability to work in team.
 skills:
   display: false
   title: Skills
@@ -55,7 +64,6 @@ skills:
     + Linux commands and devops
     + Docker and Kubernetes
     + Communication/Open-mindedness/Conflict resolution
-
   levels:
     - name: Git/Linux commands
       level: 90
@@ -75,7 +83,6 @@ skills:
       level: 70
     - name: Communication/Open-mindedness/Conflict resolution
       level: 90
-
 experiences:
   display: true
   title: Experiences
@@ -85,93 +92,119 @@ experiences:
       company: Shanghai JuYin Technoloy,Ltd.("UnionDrug")
       tag: Onsite, full-time
       location: NanJing,China
-      details: |
+      details: >
         Experience in this company:
-        + Design and develop company's middle-end finance modules
-        + Develop different Go middlewares to match company's tech stack.
-        + Extensive use of Iris web framework、XORM、MySQL、Redis、RocketMQ、ELK Stack.
-        + Implement Golang request tracing among services,easy to locate problems in logs.
-        + Implement pprof report using Promethus and visulize in Grafana.
-        + Join code review every week to improve code quality.
-        + Join tech sessions and host one of my own like "InnoDB deadlock analysis and prevention".
-        + Maintain project documents and Confluence wikis regularly.
 
+        + Design and develop company's middle-end finance modules.
+
+        + Develop different Go middlewares to match company's tech stack.
+
+        + Extensive use of Iris web framework、XORM Mapper、MySQL、Redis、RocketMQ、ELK Stack.
+
+        + Implement Golang request tracing among services,easy to locate problems in logs.
+
+        + Implement pprof report using Prometheus and visualize in Grafana.
+
+        + Join code review every week to improve code quality.
+
+        + Join tech sessions and host one of my own like "InnoDB deadlock analysis and prevention".
+
+        + Maintain project documents and Confluence wikis regularly.
     - role: Software Developer
       time: 2019.06 - 2020.11
       company: Nanjing Circle Social Technology,Ltd.
       tag: Onsite, full-time
       location: NanJing,China
-      details: |
+      details: >
         Experience in this company:
-        + Design and develop company's social network core modules like users,connection,feeds,etc.
-        + Integrate third-party SDKs like: Messaging、Payment、Broadcast、Face Recognition,etc.
-        + Implement a simple CI/CD pipeline(Deploy services to AliCloud).
-        + Linux VPS basic DevOps: Deploy services, set up cronJobs, add slow SQL monitoring with innotop,etc.
 
+        + Design and develop company's social network core modules like users,connection,feeds,etc.
+
+        + Integrate third-party SDKs like: Messaging、Payment、Broadcast、Face Recognition,etc.
+
+        + Implement a simple CI/CD pipeline(Deploy services to AliCloud).
+
+        + Linux VPS basic DevOps: Deploy services, set up cronjob, add slow SQL monitoring with Innotop,etc.
     - role: Software Developer
       time: 2016.9 - 2019.6
       company: Jiangsu Front Page Technology,Ltd.
       tag: Onsite, full-time
       location: NanJing,China
-      details: |
+      details: >
         Experience in this company:
-        + Develop website "houxue.com" backend using LAMP stack.
-        + Integrate API for "Baidu Ranking Assitant" using raw socket,protobuffers.
-        + Develop "houxue" Android App using custom widgets,familiar with Volley,Retrofit,EventBus.
 
+        + Develop website "houxue.com" backend using LAMP stack.
+
+        + Integrate API for "Baidu Ranking Assistant" using raw socket,protocolBuffers.
+
+        + Develop "houxue" Android App using custom widgets,familiar with Volley,Retrofit,EventBus.
     - role: Software Developer
       time: 2016.01 - 2016.7
       company: Smith Immigration & Education Consulting
       tag: Onsite, full-time
       location: Dublin,Ireland
-      details: |
+      details: >
         Experience in this company:
-        + Develop Android app "Ireland8" and publish to Google App Store.
-        + Develop backend API for "Ireland8"(Wechat SDK integration,news feed mixer,etc.)
 
+        + Develop Android app "Ireland8" and publish to Google App Store.
+
+        + Develop backend API for "Ireland8"(Wechat SDK integration,news feed mixer,etc.)
 projects:
   display: true
   title: Projects
-  intro: |
+  intro: ""
   items:
     - name: Settlement module
-      link:
-      details: |
-        Refactor company's monolithic settlement service to three distributed micro-services.
-        Flow "Controller-Logic-Model-Service" project structure to build the code base.
-        Add event driven middleware to simplify status change handling.
-        Simplify core transactions and reduce number of RPC calls.
-        Redesign DB schema according to different business type and make data migration plan.
-        Average latency decrease to 50ms per API and overall QPS increase by 40%.
+      link: null
+      details: >
+        + Refactor company's monolithic settlement service to three distributed
+        micro-services.
 
+        + Flow "Controller-Logic-Model-Service" project structure to build the code base.
+
+        + Add event driven middleware to simplify status change handling.
+
+        + Simplify core transactions and reduce number of RPC calls.
+
+        + Redesign DB schema according to different business type and make data migration plan.
+
+        + Average latency decrease to 50ms per API and overall QPS increase by 40%.
     - name: Billing module
-      link:
-      details: |
-        Provide capabilities to generate paper or electronic invoices,sales list correctly.
-        Provide invoice logistics tracking and scanner signing.
-        Integrate several third-party invoice provider to meet increasing need.
-        Add inventory alarm and quota compensation script.
+      link: null
+      details: >
+        + Provide capabilities to generate paper or electronic invoices,sales
+        list correctly.
 
+        + Provide invoice logistics tracking and scanner signing.
+
+        + Integrate several third-party invoice provider to meet increasing need.
+
+        + Add inventory alarm and quota compensation script.
     - name: Medicine tokenizer
-      link:
-      details: |
-        Provide capabilities to Chinese word tokenizer specially trainned for medicines.
-        Get advantage of Thulac model and constantly modify standard medicine dictionary.
+      link: null
+      details: >
+        + Provide capabilities to Chinese word tokenizer specially trained for
+        medicines.
 
+        + Get advantage of Thulac model and constantly modify standard medicine dictionary.
     - name: Excel exporter
-      link:
-      details: |
-        Provide capabilities to generate Excel files,support API/SQL/Elastic/DSL format.
-        Get advantage of Excelize library and its StreamWriter to efficiently hanle sheets without pods OOM.
+      link: null
+      details: >
+        + Provide capabilities to generate Excel files,support
+        API/SQL/Elastic/DSL format.
 
-    - name: BinaryLogToElastic Parser
-      link:
-      details: |
-        Provide capabilities to parse MySQL InnoDB binary log and write to Elastic.
-        Design dictionary,ES mapping,Registries,UUID design and main process and collabrate on 50% of the coding work.
-        Temporarily store registry,mapping information in memory and support hot-reload within custom time period.
-        Get advantage of Canal to pump binlog data,Flink to parse binary log and Kafka to efficiently handle data.
+        + Get advantage of Excelize library and its StreamWriter to efficiently handle sheets per blob without pods OOM.
+    - name: BinaryLogToElastic service
+      link: null
+      details: >
+        + Provide capabilities to parse MySQL InnoDB binary log and write to
+        Elastic using Golang.
 
+        + Design dictionary,ES mapping,Registries,custom UUID design and main process and collaborate on 50% of the coding work.
+
+        + Temporarily store registry,mapping information in memory and support hot-reload within custom time period.
+
+        + Get advantage of Canal to pump binlog data,Flink to parse binary log and Kafka to efficiently handle data.
 education:
   display: true
   title: Education
@@ -183,38 +216,34 @@ education:
       details: |
         + Develop a twitter-like message push system using WebRTC
         + Develop a Android BLE app to support nearby divice discovery
-
     - university: NanJing University of Information Science and Technology
       time: 2011 - 2014
       major: Computer Science
       degree: Bachelor
-      details: |
+      details: >
         + Develop an Android music player like NetEase music player.
         + Vice-president of the IECA,host events,provide help for exchange students and foreign tutors.
-
 certificates:
   display: true
   title: Courses
   items:
     - name: Deep Learning(CS229)
-      authority:
+      authority: null
       time: 2021
-      link:
+      link: null
       details: |
         Learned deep learning course CS229 by Andrew Ng.
     - name: Distributed System(MIT 6.824)
-      authority:
+      authority: null
       time: 2020
-      link:
+      link: null
       details: |
         Learned MIT 6.824 Distributed System by Robert Morris.
-
 publications:
   display: false
   title: Publications
   intro: |
     This is all the books I wrote.
-
   items:
     - title: Foo in Action
       authors: Foo Bar
@@ -223,15 +252,14 @@ publications:
     - title: The Art of Bar
       authors: Foo Bar
       conference: Foobar, 2019
-      link:
-
+      link: null
 patents:
   display: false
   title: Patents
-  details: |
+  details: >
     This is all my patents.
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
+    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 languages:
   display: true
   title: Languages
@@ -242,20 +270,18 @@ languages:
       level: Professional
     - idiom: Japanese
       level: Starter
-
 interests:
   display: true
   title: Interests
   items:
     - item: Piano
-      link:
+      link: null
     - item: Table Tennis
-      link:
+      link: null
     - item: Roller Skating
-      link:
+      link: null
     - item: Cooking
-      link:
-
+      link: null
 evaluation:
   display: false
   title: Self-evaluation
@@ -265,9 +291,7 @@ evaluation:
     + Second
 
     ...
-
 footer:
   display: false
-
-close: >
+close: |
   Sorry, my resume has been hidden.
