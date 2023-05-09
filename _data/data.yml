@@ -157,10 +157,11 @@ projects:
     - name: Settlement module
       link: null
       details: >
-        + Refactor company's monolithic settlement service to three distributed
-        micro-services.
+        + Refactor company's monolithic settlement service to three distributed micro-services.
 
         + Flow "Controller-Logic-Model-Service" project structure to build the code base.
+
+        + Write Consul register script and Kubernetes template for all related Go modules.
 
         + Add event driven middleware to simplify status change handling.
 
@@ -172,8 +173,7 @@ projects:
     - name: Billing module
       link: null
       details: >
-        + Provide capabilities to generate paper or electronic invoices,sales
-        list correctly.
+        + Provide capabilities to generate paper or electronic invoices,sales list correctly.
 
         + Provide invoice logistics tracking and scanner signing.
 
@@ -183,15 +183,13 @@ projects:
     - name: Medicine tokenizer
       link: null
       details: >
-        + Provide capabilities to Chinese word tokenizer specially trained for
-        medicines.
+        + Provide capabilities to Chinese word tokenizer specially trained for medicines.
 
         + Get advantage of Thulac model and constantly modify standard medicine dictionary.
     - name: Excel exporter
       link: null
       details: >
-        + Provide capabilities to generate Excel files,support
-        API/SQL/Elastic/DSL format.
+        + Provide capabilities to generate Excel files,support API/SQL/Elastic/DSL format.
 
         + Get advantage of Excelize library and its StreamWriter to efficiently handle sheets per blob without pods OOM.
     - name: BinaryLogToElastic service
@@ -222,6 +220,7 @@ education:
       degree: Bachelor
       details: >
         + Develop an Android music player like NetEase music player.
+
         + Vice-president of the IECA,host events,provide help for exchange students and foreign tutors.
 certificates:
   display: true
