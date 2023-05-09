@@ -37,15 +37,15 @@ profile:
 
     + Good knowledge of relational databases involved in development using several DBMS like MariaDB,MySQL,PostgreSQL,MongoDB,etc.
 
-    + Extensive knowledge in using Git.
-
     + Familiar with in-memory or third-party cache system like Redis,Memcached,BigCache,etc.
+
+    + Extensive knowledge in using Git.
 
     + Familiar with message queue system like Kafka,RocketMQ,RabbitMQ,etc.
 
-    + Familiar with Linux commands and distros like Debian,Ubuntu,CentOS,etc.
-
     + Familiar with Docker and Kubernetes.
+
+    + Familiar with Linux commands and distros like Debian,Ubuntu,CentOS,etc.
 
     + Hands on experience in writing Docker build files and deploying applications on cloud like AliCloud,AWS,Azure.
 
@@ -179,13 +179,13 @@ projects:
 
         + Integrate several third-party invoice provider to meet increasing need.
 
-        + Add inventory alarm and quota compensation script.
+        + Add invoice inventory alarm and quota compensation script.
     - name: Medicine tokenizer
       link: null
       details: >
         + Provide capabilities to Chinese word tokenizer specially trained for medicines.
 
-        + Get advantage of Thulac model and constantly modify standard medicine dictionary.
+        + Get advantage of "Thulac" tokenizer and constantly update standard medicine dictionary.
     - name: Excel exporter
       link: null
       details: >
