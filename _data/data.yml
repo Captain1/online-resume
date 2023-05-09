@@ -212,8 +212,8 @@ education:
       major: Software System Design
       degree: Bsc 2.1 Honors Degree
       details: |
-        + Develop a twitter-like message push system using WebRTC
-        + Develop a Android BLE app to support nearby divice discovery
+        + Develop a twitter-like app using Ruby on Rails.
+        + Develop a Android BLE app to support nearby divice discovery.
     - university: NanJing University of Information Science and Technology
       time: 2011 - 2014
       major: Computer Science
@@ -221,7 +221,7 @@ education:
       details: >
         + Develop an Android music player like NetEase music player.
 
-        + Vice-president of the IECA,host events,provide help for exchange students and foreign tutors.
+        + Serve as vice-president of the IECA. We host events and provide help for exchange students and foreign tutors.
 certificates:
   display: true
   title: Courses
